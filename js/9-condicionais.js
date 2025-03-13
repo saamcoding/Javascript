@@ -49,6 +49,4 @@ if(permissão == "SIM"){
     console.log("Você tem permissão");
 }else if(permissão == "NÃO"){ 
     console.log("Você não tem permissão")
-}else {
-    
 }
